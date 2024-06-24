@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Bijarniya, 3rd year CSE undergaduate student in IIT Madras.
+- 👋 Hi, I’m Rahul Bijarniya, CSE undergaduate student from IIT Madras.
 
 <!---
 cs19b070/cs19b070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
